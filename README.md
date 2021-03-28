@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @JessKaria, I am a junior full-stack developer, digital marketer and designer.
-- 👀 I’m interested in building awesome digital experiences and eating hot sauce
+
+- 👀 I’m interested in building awesome digital experiences and telling everyone about my hot sauce company, www.baucebrothers.com
+
 - 🌱 I’m currently learning React, Python, Django, Flask, MongoDB, Vanilla JS, SASS and everything inbetween.
+
 - 💞️ I’m looking to collaborate on anything!
+
 - 📫 How to reach me jess@baucebrothers.com
 
 <!---
