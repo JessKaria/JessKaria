@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JessKaria, I am a FE Developer at Gousto
 
-- 📫 How to reach me jesskaria.com
+- 📫 Co-founder at baucebrothers.com
 
 <!---
 JessKaria/JessKaria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
